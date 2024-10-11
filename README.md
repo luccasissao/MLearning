@@ -18,3 +18,5 @@ Instale as dependências utilizando o `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+
+
